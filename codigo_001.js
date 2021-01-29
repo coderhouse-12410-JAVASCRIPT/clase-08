@@ -23,7 +23,7 @@ function MySuperButton(){
     this.myHTMLElement = "";// Creo un elemento con todo lo que quiero....
 }
 
-
 var miPrimerBoton = new MySuperButton()
 var miSegundoBoton = new MySuperButton()
+
 
